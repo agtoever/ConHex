@@ -4,7 +4,7 @@ import logging
 #
 # User adjustable configuration settings
 #
-LOG_LEVEL = logging.DEBUG
+LOG_LEVEL = logging.ERROR
 
 
 #
