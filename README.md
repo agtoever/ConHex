@@ -14,6 +14,7 @@ I created a Python application on which you can play ConHex. In the current stat
 Future plans are:
 
 - Provide more info in the GUI about the game: players' name, list of moves, etc.
+- Last move indication
 - Provide the possibility to load/save/copy-paste games.
 - Provide more advanced game statistics, such as a "score" of the players positions.
 - Improve the gameplay with swapping options.
